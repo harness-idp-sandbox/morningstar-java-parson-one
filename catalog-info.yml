@@ -36,8 +36,8 @@ metadata:
     github.com/project-slug: morningstar-java-parson-one
     
     #Grafana dashboards
-    grafana/dashboard-selector: "folderUrl == 'http://ad22550bc83bc440694eb9a51da66f49-390405079.us-east-1.elb.amazonaws.com/dashboards/f/bf34szb60u2gwe/harness'"
-    grafana/overview-dashboard: 'http://ad22550bc83bc440694eb9a51da66f49-390405079.us-east-1.elb.amazonaws.com/d/19a44328-b2d2-4fb2-bfa3-d379d069124a/jvm-micrometer?orgId=1&kiosk'
+    grafana/dashboard-selector: "folderUrl == 'https://100.25.3.28.sslip.io/dashboards/f/bf34szb60u2gwe/harness'"
+    grafana/overview-dashboard: 'https://100.25.3.28.sslip.io/d/19a44328-b2d2-4fb2-bfa3-d379d069124a/jvm-micrometer?orgId=1&kiosk'
     
     #Sonar dashboard
     sonarqube.org/project-key: morningstar-java-parson-one
